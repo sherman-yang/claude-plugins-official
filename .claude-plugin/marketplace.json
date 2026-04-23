@@ -182,6 +182,16 @@
       "homepage": "https://github.com/awslabs/agent-plugins"
     },
     {
+      "name": "azure",
+      "description": "Transform Claude into an Azure expert. This plugin integrates the Azure MCP server and specialized Azure skills to move beyond generic advice. It enables Claude to perform real-world tasks: listing resources, validating deployments, diagnosing infrastructure issues, and optimizing costs across 50+ Azure services.",
+      "category": "deployment",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/microsoft/azure-skills.git"
+      },
+      "homepage": "https://github.com/microsoft/azure-skills"
+    },
+    {
       "name": "azure-cosmos-db-assistant",
       "source": {
         "source": "url",
@@ -191,16 +201,6 @@
       "description": "Expert assistant for Azure Cosmos DB — data modeling, query optimization, performance tuning, and best practices.",
       "category": "database",
       "homepage": "https://github.com/AzureCosmosDB/cosmosdb-claude-code-plugin"
-    },
-    {
-      "name": "azure-skills",
-      "description": "Microsoft Azure MCP integration for cloud resource management, deployments, and Azure services. Manage your Azure infrastructure, monitor applications, and deploy resources directly from Claude Code.",
-      "category": "deployment",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/microsoft/azure-skills.git"
-      },
-      "homepage": "https://github.com/microsoft/azure-skills"
     },
     {
       "name": "base44",
