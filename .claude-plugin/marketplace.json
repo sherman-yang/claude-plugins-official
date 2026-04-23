@@ -1792,6 +1792,20 @@
       "homepage": "https://github.com/TSedmanDC/Voila-API-Skill"
     },
     {
+      "name": "windsor-ai",
+      "description": "Connect Claude Code to 325+ business data sources via Windsor.ai. Query marketing, sales, CRM, ecommerce, finance, and analytics data from Google Ads, Meta, HubSpot, Salesforce, Shopify, Stripe, and hundreds more — directly from your terminal.",
+      "author": {
+        "name": "Windsor.ai"
+      },
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/windsor-ai/claude-windsor-ai-plugin.git",
+        "sha": "248a6994b15b410cc025b105bb4ed5558e9b1af9"
+      },
+      "homepage": "https://windsor.ai"
+    },
+    {
       "name": "wix",
       "description": "Build, manage, and deploy Wix sites and apps. CLI development skills for dashboard extensions, backend APIs, site widgets, and service plugins with the Wix Design System, plus MCP server for site management.",
       "category": "development",
